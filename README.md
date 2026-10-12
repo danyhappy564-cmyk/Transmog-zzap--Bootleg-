@@ -2,10 +2,15 @@
 
 ### ⚠️ IMPORTANT NOTICE / DISCLAIMER
 
-**Original Author:** szszss (Transmog) · IcyClawz (Custom Interactions; 소스 저장소 IgorEisberg)
-**Original Repository:** EFT.Transmog / SPT-ClientMods (CustomInteractions)
-**Original Link:** https://github.com/szszss/EFT.Transmog · https://github.com/IgorEisberg/SPT-ClientMods · https://hub.sp-tarkov.com/files/file/1278-custom-interactions/
-**License notation:** Transmog — MIT / Custom Interactions — University of Illinois/NCSA Open Source License (전문: [THIRD-PARTY-NOTICES.md](THIRD-PARTY-NOTICES.md))
+**Original Works:**
+
+1. **szszss** — Transmog
+   - Repository: [szszss/EFT.Transmog](https://github.com/szszss/EFT.Transmog)
+   - License: MIT
+2. **IcyClawz** — Custom Interactions (소스 저장소 IgorEisberg)
+   - Repository: [IgorEisberg/SPT-ClientMods](https://github.com/IgorEisberg/SPT-ClientMods) (CustomInteractions)
+   - Link: https://hub.sp-tarkov.com/files/file/1278-custom-interactions/
+   - License: University of Illinois/NCSA Open Source License (전문: [THIRD-PARTY-NOTICES.md](THIRD-PARTY-NOTICES.md))
 
 1. **Reflection & Take-Downs:** I deeply reflect on the ECOT incident. As an AI-assisted "vibe coder," I will immediately delete files if the original authors ask.
 2. **No Re-Distribution:** These ported builds are unverified, temporary fixes. Please do NOT re-upload or share them anywhere else.
@@ -17,6 +22,7 @@
 
 ## 변경 이력
 
+- 2026-10-13 04:37 — README 맨 위 원작자 표기를 한 줄씩 나눠 보기 쉽게 정리 (내용 변화 없음)
 - 2026-10-12 19:16 — 릴리즈 노트 작성([release-notes/v1.3.1.1.md](release-notes/v1.3.1.1.md) GitHub용 한/영, [v1.3.1.1-arca.txt](release-notes/v1.3.1.1-arca.txt) 아카라이브용). 사용자 PC에서 동작 확인된 상태로 기록.
 - 2026-10-12 19:08 — 4.1 첫 포팅. Transmog 1.3.1 + Custom Interactions 1.8.0을 **dll 1개로 합침**(Custom Interactions 별도 설치·패처 폴더 불필요). 4.1에서 이름이 바뀐 게임 코드 부분을 새 이름으로 바꾸고, 우클릭 메뉴를 4.1 구조에 맞게 다시 작성. 빌드는 통과, **인게임 동작은 미확인**.
 
