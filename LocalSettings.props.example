@@ -1,0 +1,6 @@
+<Project>
+  <!-- 이 파일을 LocalSettings.props 로 복사하고 본인 SPT 경로를 적으세요 (LocalSettings.props 는 git 에 안 올라갑니다) -->
+  <PropertyGroup>
+    <SptRoot>E:\SPT 4.1</SptRoot>
+  </PropertyGroup>
+</Project>
