@@ -17,6 +17,7 @@
 
 ## 변경 이력
 
+- 2026-10-12 19:16 — 릴리즈 노트 작성([release-notes/v1.3.1.1.md](release-notes/v1.3.1.1.md) GitHub용 한/영, [v1.3.1.1-arca.txt](release-notes/v1.3.1.1-arca.txt) 아카라이브용). 사용자 PC에서 동작 확인된 상태로 기록.
 - 2026-10-12 19:08 — 4.1 첫 포팅. Transmog 1.3.1 + Custom Interactions 1.8.0을 **dll 1개로 합침**(Custom Interactions 별도 설치·패처 폴더 불필요). 4.1에서 이름이 바뀐 게임 코드 부분을 새 이름으로 바꾸고, 우클릭 메뉴를 4.1 구조에 맞게 다시 작성. 빌드는 통과, **인게임 동작은 미확인**.
 
 ## 무엇인가
